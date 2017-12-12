@@ -2,7 +2,7 @@
 I created WebAR application.
 
 ```
-./------ blend/
+./--|- blend/
     |- css/
     |- data/
     |- demo_pic/
